@@ -11,7 +11,7 @@ Built for communities that need fast, reliable access to nearby medical support.
   [carefinder-frontend](https://github.com/Ashi-Verma1758/carefinder-frontend)
 
 - ⚙️ **Backend Repository**  
-  [carefinder-backend](https://github.com/Ashi-Verma1758/carefinder:-backend)
+  [carefinder-backend](https://github.com/Ashi-Verma1758/carefinder--backend)
 
 ---
 
