@@ -6,7 +6,7 @@ Built for communities that need fast, reliable access to nearby medical support.
 ---
 
 ## 🔗 GitHub Repositories
-**check the follwing repositories to track the progress
+**check the following repositories to track the progress
 
 - 🌐 **Frontend Repository**  
   [carefinder-frontend](https://github.com/Ashi-Verma1758/carefinder-frontend)
