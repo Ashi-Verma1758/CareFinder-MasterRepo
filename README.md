@@ -16,9 +16,9 @@ Built for communities that need fast, reliable access to nearby medical support.
 
 ---
 
-## 🌍 Live Demo (link will be active if deployed)
+## 🌍 Live Demo (link are active now)
 
-- 🔗 Frontend Live:https://care-finder-frontend.vercel.app/
-- 🔗 Backend API:https://carefinder-backend-production.up.railway.app/
+- 🔗 [Frontend Live](https://care-finder-frontend.vercel.app/)
+- 🔗 [Backend API](https://carefinder-backend-production.up.railway.app/)
 
 
