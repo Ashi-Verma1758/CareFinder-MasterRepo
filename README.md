@@ -1,4 +1,4 @@
-# 🏥 CareFinder – Hackathon Submission 🚀
+# 🏥 CareFinder 🚀
 
 **CareFinder** is a full-stack healthcare web application that allows users to find hospitals, check real-time bed availability, and manage hospital data efficiently.
 Built for communities that need fast, reliable access to nearby medical support.
